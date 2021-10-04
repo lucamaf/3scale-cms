@@ -7,6 +7,7 @@
 ## DISCLAIMER
 
 It is important to know that this tool, as well as the API it uses, are undocumented currently and not supported by 3scale. The CMS tool, as well as the underlying API, may change at any moment, without any guarantee of backwards compatibility. Therefore, we cannot recommend this tool for production use.
+This only works with version of ruby < 2.7.0.
 
 ## Installation
 
